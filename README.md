@@ -1,6 +1,6 @@
 # GPS Tracker
 
-GPS Tracker is an IOT mobile application that allows the user to keep track of where there personal belongings are at all times. 
+GPS Tracker is an IOT mobile application that allows the user to keep track of where their personal belongings are at all times. 
 
 ## Description
 
